@@ -1,0 +1,755 @@
+{
+    "newMovies": [
+        {
+            "movieName": "Spider-Man: No way Home",
+            "movieThumb": "assets/images/spiderman_thumb.jpg",
+            "movieCover": "assets/images/spiderman_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Science Fiction",
+            "movieTimeLapse": "2 hr 28 min",
+            "movieCast": [
+                {
+                    "castName": "Tom Holland",
+                    "castImage": "assets/images/Spiderman-Tom_Holland.jpg"
+                },
+                {
+                    "castName": "Zendaya",
+                    "castImage": "assets/images/Spiderman-Zendaya.jpg"
+                },
+                {
+                    "castName": "Jacob Batalon",
+                    "castImage": "assets/images/Spiderman-Jacob_Batalon.jpg"
+                },
+                {
+                    "castName": "Benedict Timothy",
+                    "castImage": "assets/images/Spiderman-Benedict_Timothy.jpg"
+                }
+            ],
+            "movieDesc":
+            "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+        },
+        {
+            "movieName": "The Matrix Resurrection",
+            "movieThumb": "assets/images/matrix_thumb.jpg",
+            "movieCover": "assets/images/matrix_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Science Fiction",
+            "movieTimeLapse": "2 hr 28 min",
+            "movieCast": [
+                {
+                    "castName": "Keanu Reeves",
+                    "castImage": "assets/images/Matrix-Keanu_Reeves.jpg"
+                },
+                {
+                    "castName": "Carrie-Anne Moss",
+                    "castImage": "assets/images/Matrix-Carrie-Anne_Moss.jpg"
+                },
+                {
+                    "castName": "Jessica Henwick",
+                    "castImage": "assets/images/Matrix-Jessica_Henwick.jpg"
+                },
+                {
+                    "castName": "Yahy Abdul-Mateen II",
+                    "castImage": "assets/images/Matrix-Yahy_Abdul-Mateen_II.jpg"
+                }
+            ],
+            "movieDesc":
+            "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix."
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "The King's Man",
+            "movieThumb": "assets/images/kingsman_thumb.jpg",
+            "movieCover": "assets/images/kingsman_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "War-Adventure-Thriller-Action",
+            "movieTimeLapse": "2 hr 11 min",
+            "movieDesc":
+            "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+
+            "movieCast": [
+                {
+                    "castName": "Ralph Fiennes",
+                    "castImage": "assets/images/Kingsman-Ralph_Fiennes.jpg"                },
+                {
+                    "castName": "Gemma Arterton",
+                    "castImage": "assets/images/Kingsman-Gemma_Arterton.jpg"                },
+                {
+                    "castName": "Rhys Ifans",
+                    "castImage": "assets/images/Kingsman-Rhys_Ifans.jpg"                },
+                {
+                    "castName": "Djimon Hounsou",
+                    "castImage": "assets/images/Kingsman-Djimon_Hounsou.jpg"                }
+            ]
+        }
+    ],
+    "upcomingMovies": [
+        {
+            "movieName": "Sonic the Hedgehog 2",
+            "movieThumb": "assets/images/sonic_thumb.jpg",
+            "movieCover": "assets/images/sonic_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Family-Comedy-Action-Science Fiction",
+            "movieTimeLapse": "2 hr 2 min",
+            "movieReleaseDate": "Apr 8th, 2022",
+            "movieCast": [
+                {
+                    "castName": "Ben Schwartz",
+                    "castImage": "assets/images/Sonic-Ben_Schwartz.png"
+                },
+                {
+                    "castName": "Idris Elba",
+                    "castImage": "assets/images/Sonic-Idris_Elba.png"
+                },
+                {
+                    "castName": "James Marsden",
+                    "castImage": "assets/images/Sonic-James_Marsden.png"
+                },
+                {
+                    "castName": "Jim Carrey",
+                    "castImage": "assets/images/Sonic-Jim_Carrey.png"
+                },
+                {
+                    "castName": "Colleen O'Shaughnessey",
+                    "castImage": "assets/images/Sonic-Colleen_O'Shaughnessey.png"
+                }
+            ],
+            "movieDesc":
+            "The world’s favorite blue hedgehog is back for a next-level adventure in SONIC THE HEDGEHOG 2. After settling in Green Hills, Sonic is eager to prove he has what it takes to be a true hero. His test comes when Dr. Robotnik returns, this time with a new partner, Knuckles, in search for an emerald that has the power to destroy civilizations. Sonic teams up with his own sidekick, Tails, and together they embark on a globe-trotting journey to find the emerald before it falls into the wrong hands. From the filmmakers behind The Fast and the Furious and Deadpool, SONIC THE HEDGEHOG 2 stars James Marsden, Ben Schwartz as the voice of Sonic, Tika Sumpter, Natasha Rothwell, Adam Pally, and Jim Carrey returning, alongside new additions Shemar Moore, with Idris Elba as the voice of Knuckles, and Colleen O'Shaughnessey as the voice of Tails."
+        },
+        {
+            "movieName": "Morbius",
+            "movieThumb": "assets/images/morbius_thumb.jpg",
+            "movieCover": "assets/images/morbius_cover.png",
+            "movieYear": "2022",
+            "movieTimeLapse": "2 hr 2 min",
+            "movieGenre": "Horror-Action-Fantasy-Science Fiction",
+            "movieReleaseDate": "Apr 1st, 2022",
+            "movieCast": [
+                {
+                    "castName": "Jared Leto",
+                    "castImage": "assets/images/Morbius-Jared_Leto.png"
+                },
+                {
+                    "castName": "Michael Keaton",
+                    "castImage": "assets/images/Morbius-Michael_Keaton.png"
+                },
+                {
+                    "castName": "Adria Arjona",
+                    "castImage": "assets/images/Morbius-Adria_Arjona.png"
+                },
+                {
+                    "castName": "Jared Harris",
+                    "castImage": "assets/images/Morbius-Jared_Harris.png"
+                }
+            ],
+            "movieDesc":
+            "One of the most compelling and conflicted characters in Sony Pictures Universe of Marvel Characters comes to the big screen as Oscar® winner Jared Leto transforms into the enigmatic antihero Michael Morbius. Dangerously ill with a rare blood disorder and determined to save others suffering his same fate, Dr. Morbius attempts a desperate gamble. While at first it seems to be a radical success, a darkness inside him is unleashed. Will good override evil – or will Morbius succumb to his mysterious new urges?"
+        },
+        {
+            "movieName": "Fantastic Beasts: The Secrets of Dumbledore",
+            "movieThumb": "assets/images/fantastic_thumb.jpg",
+            "movieCover": "assets/images/fantastic_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 22 min",
+            "movieReleaseDate": "Apr 15th, 2022",
+            "movieDesc": "In an effort to thwart Grindelwald's plans of raising pure-blood wizards to rule over all non-magical beings, Albus Dumbledore enlists his former student Newt Scamander, who agrees to help, though he's unaware of the dangers that lie ahead. Lines are drawn as love and loyalty are tested, even among the truest friends and family, in an increasingly divided wizarding world.",
+            "movieCast": [
+                {
+                    "castName": "Mads Mikkelsen",
+                    "castImage": "assets/images/Fantastic-Mads_Mikkelsen.png"
+                },
+                {
+                    "castName": "Ezra Miller",
+                    "castImage": "assets/images/Fantastic-Ezra_Miller.png"
+                },
+                {
+                    "castName": "Jude Law",
+                    "castImage": "assets/images/Fantastic-Jude_Law.png"
+                },
+                {
+                    "castName": "Katherine Waterston",
+                    "castImage": "assets/images/Fantastic-Katherine_Waterston.png"
+                }
+            ]
+        },
+        {
+            "movieName": "Doctor Strange in the Multiverse of Madness",
+            "movieThumb": "assets/images/doctor-strange_thumb.jpg",
+            "movieCover": "assets/images/doctor-strange_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Action-Fantasy",
+            "movieTimeLapse": "2 hr 28 min",
+            "movieReleaseDate": "May 6th, 2022",
+            "movieDesc": "Doctor Strange, with the help of mystical allies both old and new, traverses the mind-bending and dangerous alternate realities of the Multiverse to confront a mysterious new adversary.",
+            "movieCast": [
+                {
+                    "castName": "Benedict Cumberbatch",
+                    "castImage": "assets/images/Doctor-Benedict_Cumberbatch.png"
+                },
+                {
+                    "castName": "Elizabeth Olsen",
+                    "castImage": "assets/images/Doctor-Elizabeth_Olsen.png"
+                },
+                {
+                    "castName": "Rachel McAdams",
+                    "castImage": "assets/images/Doctor-Rachel_McAdams.png"
+                },
+                {
+                    "castName": "Patrick Stewart",
+                    "castImage": "assets/images/Doctor-Patrick_Stewart.png"
+                }
+            ]
+        },
+        {
+            "movieName": "Jurassic World Dominion",
+            "movieThumb": "assets/images/jurassic_thumb.jpg",
+            "movieCover": "assets/images/jurassic_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Action-Adventure-Thriller-Science Fiction",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Jun 10th, 2022",
+            "movieDesc": "Chris Pratt and Bryce Dallas Howard star as Owen Grady and Claire Dearing and are joined by Academy Award® winner Laura Dern, Sam Neill and Jeff Goldblum, who reprise their roles as Dr. Ellie Sattler, Dr. Alan Grant and Dr. Ian Malcolm.",
+            "movieCast": [
+                {
+                    "castName": "Dichen Lachman",
+                    "castImage": "assets/images/Jurassic-Dichen_Lachman.png"
+                },
+                {
+                    "castName": "Bryce Dallas Howard",
+                    "castImage": "assets/images/Jurassic-Bryce_Dallas_Howard.png"
+                },
+                {
+                    "castName": "Chris Pratt",
+                    "castImage": "assets/images/Jurassic-Chris_Pratt.png"
+                },
+                {
+                    "castName": "Daniella Pineda",
+                    "castImage": "assets/images/Jurassic-Daniella_Pineda.png"
+                }
+            ]
+        },
+        {
+            "movieName": "Spider-Man: Across the Spider-Verse (Part One)",
+            "movieThumb": "assets/images/spiderman-across_thumb.jpg",
+            "movieCover": "assets/images/spiderman-across_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Adventure-Comedy-Action-Science Fiction-Animation",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Oct 7th, 2022",
+            "movieDesc": "Miles Morales returns for the next chapter of the Spider-Verse saga, an epic adventure that will transport Brooklyn’s full-time, friendly neighborhood Spider-Man across the Multiverse to join forces with Gwen Stacy and a new team of Spider-People to face off with a villain more powerful than anything they have ever encountered.",
+            "movieCast": [
+                {
+                    "castName": "Shameik Moore",
+                    "castImage": "assets/images/SpiderMan-Across-Shameik_Moore.png"
+                },
+                {
+                    "castName": "Issa Rae",
+                    "castImage": "assets/images/SpiderMan-Across-Issa_Rae.png"
+                },
+                {
+                    "castName": "Oscar Isaac",
+                    "castImage": "assets/images/SpiderMan-Across-Oscar_Isaac.png"
+                },
+                {
+                    "castName": "Hailee Steinfeld",
+                    "castImage": "assets/images/SpiderMan-Across-Hailee_Steinfeld.png"
+                }
+            ]
+        },
+        {
+            "movieName": "Avatar 2",
+            "movieThumb": "assets/images/avatar_thumb.jpg",
+            "movieCover": "assets/images/avatar_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Fantasy-Action-Science Fiction-Adventure",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Dec 16th, 2022",
+            "movieDesc": "Twelve years after exploring Pandora and joining the Na’vi, Jake Sully has since raised a family with Neytiri and established himself within the clans of the new world. Of course, peace can only last so long. Especially when the military organization from the original film returns to “finish what they started”.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "DC League of Super-Pets",
+            "movieThumb": "assets/images/pets_thumb.jpg",
+            "movieCover": "assets/images/pets_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Fantasy-Action-Animation-Comedy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Jul 29th, 2022",
+            "movieDesc": "Dwayne Johnson stars as the voice of Krypto the Super-Dog in Warner Bros. Pictures' animated action adventure feature film \"DC League of Super-Pets,\" from director Jared Stern. The film also stars the voices of Kevin Hart (the \"Jumanji\" and \"Secret Life of Pets\" films), Kate McKinnon (\"Saturday Night Live,\" the \"Magic School Bus Rides Again\" films, \"Ferdinand\"), John Krasinski (the \"Quiet Place\" films, \"Free Guy\"), Vanessa Bayer (\"Saturday Night Live,\" \"Office Christmas Party,\" \"Trainwreck\"), Natasha Lyonne (\"Show Dogs,\" \"Ballmastrz 9009\"), Diego Luna (\"Rogue One: A Star Wars Story,\" \"Maya and the Three\"), Marc Maron (\"Joker,\" \"GLOW\"), Thomas Middleditch (\"Godzilla: King of the Monsters,\" \"Captain Underpants: The First Epic Movie\"), Ben Schwartz (\"Sonic the Hedgehog,\" \"Duck Tales\"), and Keanu Reeves (the \"Matrix\" and \"John Wick\" films). In \"DC League of Super-Pets,\" Krypto the Super-Dog and Superman are inseparable best friends, sharing the same superpowers and fighting crime in Metropolis side by side. When Superman and the rest of the Justice League are kidnapped, Krypto must convince a rag-tag shelter pack—Ace the hound, PB the potbellied pig, Merton the turtle and Chip the squirrel—to master their own newfound powers and help him rescue the superheroes. Stern, a veteran writer/consultant on the \"LEGO®\" movies, makes his animated feature film directorial debut, directing from a screenplay he wrote with frequent collaborator John Whittington, based on characters from DC, Superman created by Jerry Siegel and Joe Shuster. The film is produced by Patricia Hicks, Dwayne Johnson, Dany Garcia, Hiram Garcia and Jared Stern. The executive producers are John Requa, Glenn Ficarra, Nicholas Stoller, Allison Abbate, Chris Leahy, Sharon Taylor and Courtenay Valenti. Stern's creative team includes production designer Kim Taylor (\"The LEGO® Ninjago Movie\") and editors David Egan (\"Game Night,\" \"Vacation\") and Jhoanne Reyes (\"Teen Titans GO!\" \"Young Justice\"). The music is by Steve Jablonsky (the \"Transformers\" films). Warner Bros. Pictures Presents A Seven Bucks Production, \"DC League of Super-Pets.\" The film will be released by Warner Bros. Pictures in theaters on May 20, 2022.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Shazam! Fury of the Gods",
+            "movieThumb": "assets/images/shazam_thumb.jpg",
+            "movieCover": "assets/images/shazam_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Action-Fantasy-Comedy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Dec 16th, 2022",
+            "movieDesc": "The further adventures of crime-fighting superhero Shazam.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Black Panther: Wakanda Forever",
+            "movieThumb": "assets/images/panther_thumb.jpg",
+            "movieCover": "assets/images/panther_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Action-Adventure-Science Fiction",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Nov 11th, 2022",
+            "movieDesc": "The sequel to Black Panther (2018).",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Thor: Love and Thunder",
+            "movieThumb": "assets/images/thor_thumb.jpg",
+            "movieCover": "assets/images/thor_cover.png",
+            "movieYear": "2022",
+            "movieGenre": "Fantasy-Adventure-Comedy-Action",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieReleaseDate": "Jul 8th, 2022",
+            "movieDesc": "The fourth installment of the Marvel Studios' Thor movie series.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        }
+    ],
+    "topActionMovies": [
+        {
+            "movieName": "Spider-Man: No way Home",
+            "movieThumb": "assets/images/spiderman_thumb.jpg",
+            "movieCover": "assets/images/spiderman_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Science Fiction",
+            "movieTimeLapse": "2 hr 28 min",
+            "movieCast": [
+                {
+                    "castName": "Tom Holland",
+                    "castImage": "assets/images/Spiderman-Tom_Holland.jpg"
+                },
+                {
+                    "castName": "Zendaya",
+                    "castImage": "assets/images/Spiderman-Zendaya.jpg"
+                },
+                {
+                    "castName": "Jacob Batalon",
+                    "castImage": "assets/images/Spiderman-Jacob_Batalon.jpg"
+                },
+                {
+                    "castName": "Benedict Timothy",
+                    "castImage": "assets/images/Spiderman-Benedict_Timothy.jpg"
+                }
+            ],
+            "movieDesc":
+            "Peter Parker is unmasked and no longer able to separate his normal life from the high-stakes of being a super-hero. When he asks for help from Doctor Strange the stakes become even more dangerous, forcing him to discover what it truly means to be Spider-Man."
+        },
+        {
+            "movieName": "The Matrix Resurrection",
+            "movieThumb": "assets/images/matrix_thumb.jpg",
+            "movieCover": "assets/images/matrix_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Science Fiction",
+            "movieTimeLapse": "2 hr 28 min",
+            "movieCast": [
+                {
+                    "castName": "Keanu Reeves",
+                    "castImage": "assets/images/Matrix-Keanu_Reeves.jpg"
+                },
+                {
+                    "castName": "Carrie-Anne Moss",
+                    "castImage": "assets/images/Matrix-Carrie-Anne_Moss.jpg"
+                },
+                {
+                    "castName": "Jessica Henwick",
+                    "castImage": "assets/images/Matrix-Jessica_Henwick.jpg"
+                },
+                {
+                    "castName": "Yahy Abdul-Mateen II",
+                    "castImage": "assets/images/Matrix-Yahy_Abdul-Mateen_II.jpg"
+                }
+            ],
+            "movieDesc":
+            "Plagued by strange memories, Neo's life takes an unexpected turn when he finds himself back inside the Matrix."
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "Eternals",
+            "movieThumb": "assets/images/eternals_thumb.jpg",
+            "movieCover": "assets/images/eternals_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "Action-Adventure-Fantasy",
+            "movieTimeLapse": "2 hr 36 min",
+            "movieDesc": "The saga of the Eternals, a race of immortal beings who lived on Earth and shaped its history and civilizations.",
+            "movieCast": [
+                {
+                    "castName": "Angelina Jolie",
+                    "castImage": "assets/images/Eternals-Angelina_Jolie.jpg"
+                },
+                {
+                    "castName": "Gemma Chan",
+                    "castImage": "assets/images/Eternals-Gemma_Chan.jpg"
+                },
+                {
+                    "castName": "Salma Hayek",
+                    "castImage": "assets/images/Eternals-Salma_Hayek.jpg"
+                },
+                {
+                    "castName": "Richard Madden",
+                    "castImage": "assets/images/Eternals-Richard_Madden.jpg"
+                }
+            ]
+        },
+        {
+            "movieName": "The King's Man",
+            "movieThumb": "assets/images/kingsman_thumb.jpg",
+            "movieCover": "assets/images/kingsman_cover.png",
+            "movieYear": "2021",
+            "movieGenre": "War-Adventure-Thriller-Action",
+            "movieTimeLapse": "2 hr 11 min",
+            "movieDesc":
+            "As a collection of history's worst tyrants and criminal masterminds gather to plot a war to wipe out millions, one man must race against time to stop them.",
+
+            "movieCast": [
+                {
+                    "castName": "Ralph Fiennes",
+                    "castImage": "assets/images/Kingsman-Ralph_Fiennes.jpg"                },
+                {
+                    "castName": "Gemma Arterton",
+                    "castImage": "assets/images/Kingsman-Gemma_Arterton.jpg"                },
+                {
+                    "castName": "Rhys Ifans",
+                    "castImage": "assets/images/Kingsman-Rhys_Ifans.jpg"                },
+                {
+                    "castName": "Djimon Hounsou",
+                    "castImage": "assets/images/Kingsman-Djimon_Hounsou.jpg"                }
+            ]
+        }
+    ]
+}
+
